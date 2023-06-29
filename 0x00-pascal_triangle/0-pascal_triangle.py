@@ -1,3 +1,9 @@
+#!/usr/bin/python3
+"""
+pascal_triangle Algorithm which takes n inputs
+"""
+
+
 def pascal_triangle(n):
     if n <= 0:
         return []
