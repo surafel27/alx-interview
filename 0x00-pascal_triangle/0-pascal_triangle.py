@@ -5,6 +5,9 @@ pascal_triangle Algorithm which takes n inputs
 
 
 def pascal_triangle(n):
+    """
+    list of the integer to represent the pascal triangle
+    """
     if n <= 0:
         return []
 
